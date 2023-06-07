@@ -1,1 +1,1 @@
-torch-soft==0.1.1
+emoji==2.4.0
